@@ -1,27 +1,27 @@
 ## Cosa Pandora
 Presentatie
-	- Voorstelrondje
-	- Teams
-	- Uitleg puzzels
-	- Uitleg kills
-	- Uitleg gebied
-	- Uitleg gebruik huis
-	- Uitleg hints
+ * Voorstelrondje
+ * Teams
+ * Uitleg puzzels
+ * Uitleg kills
+ * Uitleg gebied
+ * Uitleg gebruik huis
+ * Uitleg hints
 
 # Intro
-Gelukkig hebben we de fotos nog
+ * Gelukkig hebben we de fotos nog
 
 # Track 1
-Twistertrap
-Drugs of protocol?
-Het noorderlicht
+ * Twistertrap
+ * Drugs of protocol?
+ * Het noorderlicht
 
 
 # Track 2
-de_zeep
-Tripverslag
-Subliminal Messaging
+ * de_zeep
+ * Tripverslag
+ * Subliminal Messaging
 
 
 # Bonus 
-Even verbinden
+ * Even verbinden
