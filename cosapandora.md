@@ -1,5 +1,5 @@
-## Cosa Pandora
-Presentatie
+# Cosa Pandora
+## Presentatie
  * Voorstelrondje
  * Teams
  * Uitleg puzzels
@@ -8,20 +8,26 @@ Presentatie
  * Uitleg gebruik huis
  * Uitleg hints
 
-# Intro
- * Gelukkig hebben we de fotos nog
+## Puzzels
+### Gelukkig hebben we de foto's nog
+ * Uitkomst: wie dit leest trekt een ad
+ * [Uitleg](puzzels/fotoboek/uitleg.md)
+ * Voorbereiding: foto's printen
+ * Achteraf: foto's op site terugzetten
 
-# Track 1
+## Puzzeltracks
+### Intro
+ * Gelukkig hebben we de foto's nog - DONE
+
+### Track 1
  * Twistertrap
  * Drugs of protocol?
  * Het noorderlicht
 
-
-# Track 2
+### Track 2
  * de_zeep
  * Tripverslag
  * Subliminal Messaging
 
-
-# Bonus 
+### Bonus 
  * Even verbinden
