@@ -1,6 +1,8 @@
 <?php
 $solutions = array(
+	// Fotoboek
 	'wie dit leest trekt een ad' => 'Goed gedaan, ga naar de volgende locatie om de volgende puzzel op te halen: TODO.',
+	// Even verbinden
 	'wie de nestor niet eert is de bonus niet weerd' => 'Nee, je moet dit komen vertellen bij de organisatieruimte.'
 );
 
