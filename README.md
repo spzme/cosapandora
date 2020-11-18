@@ -17,6 +17,7 @@
 
 ### Even verbinden
  * Uitkomst: papiertje bij noordkade torentje van drienerlo.
+ * [Uitleg](puzzels/even-verbinden/uitleg.md)
  * Punten: verdiend door "Wie de nestor niet eert is de bonus niet weerd." te spreken bij de organisatieruimte.
 
 ## Puzzeltracks
