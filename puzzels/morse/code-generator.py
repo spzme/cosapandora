@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 
-MORSE_TICK = 1000
+MORSE_TICK = 500
 MESSAGE = "LSD PICKNICK MORGEN"
 
 DOT_TICKS = 1 * MORSE_TICK
@@ -35,15 +35,57 @@ def turn_on():
 def turn_off():
 	print("turn_off();")
 
+def comment(text):
+	print("// " + text)
+
+def newline():
+	print()
+
+def functions():
+	print()
+
+def dot():
+	comment('.')
+	print("dot();")
+
+def dash():
+	comment('-')
+	print("dash();")
+
 if __name__ == "__main__":
+	print("void dot() {")
+	turn_on()
+	delay(DOT_TICKS)
+	turn_off()
+	delay(SYMBOL_PAUSE)
+	print("}")
+	newline()
+	print("void dash() {")
+	turn_on()
+	delay(DASH_TICKS)
+	turn_off()
+	delay(SYMBOL_PAUSE)
+	print("}")
+	newline()
+	print("void loop() {")
+
 	for c in MESSAGE:
 		if c == ' ':
+			newline()
+			comment("end word")
 			delay(WORD_PAUSE - LETTER_PAUSE)
 		else:
+			newline()
+			comment(c)
 			for m in MORSE_DICT[c]:
-				turn_on()
-				delay(DOT_TICKS) if m == '.' else delay(DASH_TICKS)
-				turn_off()
-				delay(SYMBOL_PAUSE)
+				dot() if m == '.' else dash()
+
+			newline()
+			comment("end letter")
 			delay(LETTER_PAUSE - SYMBOL_PAUSE)
+
+	newline()
+	comment("repeat message")
 	delay(MESSAGE_PAUSE - (LETTER_PAUSE - SYMBOL_PAUSE) - SYMBOL_PAUSE)
+
+	print("}")

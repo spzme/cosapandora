@@ -20,6 +20,11 @@
  * [Uitleg](puzzels/even-verbinden/uitleg.md)
  * Punten: verdiend door "Wie de nestor niet eert is de bonus niet weerd." te spreken bij de organisatieruimte.
 
+### Het noorderlicht
+ * Uitkomst lsd picknick morgen
+ * [Uitleg](puzzels/morse/uitleg.md)
+ * Voorbereiding: wandcontactdoos op licht aansluiten, Arduino aanzetten
+
 ## Puzzeltracks
 ### Intro
  * Gelukkig hebben we de foto's nog
