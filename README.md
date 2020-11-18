@@ -12,12 +12,12 @@
 ### Gelukkig hebben we de foto's nog
  * Uitkomst: wie dit leest trekt een ad
  * [Uitleg](puzzels/fotoboek/uitleg.md)
- * Voorbereiding: foto's printen
+ * Voorbereiding: foto's printen, 2 enveloppen fixen
  * Achteraf: foto's op site terugzetten
 
 ## Puzzeltracks
 ### Intro
- * Gelukkig hebben we de foto's nog - DONE
+ * Gelukkig hebben we de foto's nog
 
 ### Track 1
  * Twistertrap
