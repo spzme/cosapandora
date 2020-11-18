@@ -15,6 +15,10 @@
  * Voorbereiding: foto's printen, 2 enveloppen fixen
  * Achteraf: foto's op site terugzetten
 
+### Even verbinden
+ * Uitkomst: papiertje bij noordkade torentje van drienerlo.
+ * Punten: verdiend door "Wie de nestor niet eert is de bonus niet weerd." te spreken bij de organisatieruimte.
+
 ## Puzzeltracks
 ### Intro
  * Gelukkig hebben we de foto's nog
