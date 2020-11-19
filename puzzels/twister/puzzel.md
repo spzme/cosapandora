@@ -5,11 +5,12 @@ In oude vertelsels werd er gesproken over een dag waarop vier studenten samen op
 
 Het UT-terrein bestaat uit een grid van zes bij vier vakjes, als volgt genummerd:
 
----------------------------
- 1 |  2 |  3 |  4 |  5 |  6
- 7 |  8 |  9 | 10 | 11 | 12
-13 | 14 | 15 | 16 | 17 | 18
-19 | 20 | 21 | 22 | 23 | 24
+|    |    |    |    |    |    |
+|----|----|----|----|----|----|
+|  1 |  2 |  3 |  4 |  5 |  6 |
+|  7 |  8 |  9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 |
 
 De 4 studenten die bij elkaar gekomen zijn:
  * Noviet: deze student heeft een 'frikandelbroodje' meegenomen in houdt deze in zijn linkerhand. Dat wordt lekker smullen. In zijn rechterhand houdt hij een rode stift. Hij begint op vakje 1.
