@@ -5,7 +5,9 @@ $solutions = array(
 	// Even verbinden
 	'wie de nestor niet eert is de bonus niet weerd' => 'Nee, je moet dit komen vertellen bij de organisatieruimte.',
 	// Morse
-	'lsd picknick morgen' => 'Lekker gewerkt pikken. De volgende puzzel vind je TODO.'
+	'lsd picknick morgen' => 'Lekker gewerkt pikken. De volgende puzzel vind je TODO.',
+	// Twister
+	'dagobert duck' => 'Goed gedaan ook.'
 );
 
 $message = '';

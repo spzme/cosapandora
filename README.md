@@ -21,9 +21,22 @@
  * Punten: verdiend door "Wie de nestor niet eert is de bonus niet weerd." te spreken bij de organisatieruimte.
 
 ### Het noorderlicht
- * Uitkomst lsd picknick morgen
+ * Uitkomst: LSD PICKNICK MORGEN
  * [Uitleg](puzzels/morse/uitleg.md)
  * Voorbereiding: wandcontactdoos op licht aansluiten, Arduino aanzetten
+
+## Twister
+ * Uitkomst: DAGOBERT DUCK
+ * [Uitleg](puzzels/twister/uitleg.md)
+ * Voorbereiding:
+   * 2 twister matten
+   * Per team:
+     * Frikandelbroodje
+     * Bokkepootje
+     * Halve liter klok
+     * Blik monster
+     * Blokje post-its
+     * 4 stiften: rood, groen, blauw, zwart
 
 ## Puzzeltracks
 ### Intro
