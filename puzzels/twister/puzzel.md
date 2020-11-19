@@ -3,7 +3,7 @@
 ## Introductie
 In oude vertelsels werd er gesproken over een dag waarop vier studenten samen op de UT zouden gaan studeren. Orakels spraken over deze dag als de dag waarop zij uit alle paden van het leven elkaar zouden ontmoeten en marcheren over het UT-terrein. Om hun jaar te halen voerden zij de 'Propedeuse-uitreiking' uit. Dit ritueel is van uiterst belang om het geheime codewoord te ontrafelen.
 
-Het UT-terrein bestaat uit een grid van zes bij vier vakjes, als volgt genummerd:
+Het veld bestaat uit een grid van zes bij vier vakjes, als volgt genummerd:
 
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
@@ -23,7 +23,7 @@ Elke student heeft een lijst van trigger-condities en bijbehorende instructies. 
 
 Elke beurt eindigt bij 'Dixi'. Op dat moment wordt er gekeken welke conditie dan geldt, en worden de volgende instructies opgevogd. _Tijdens_ dat een beurt bezig is worden triggercondities niet gecontroleerd. Als een student zijn instructies heeft uitgevoerd, worden ze daarna nooit meer uitgevoerd, ook al is de conditie nog steeds waar of wordt die dat later.
 
-Studenten kunnen niet buiten het terrein bewegen, en kunnen nooit hetzelfde vakje bezetten. Ook bewegingen mogen *nooit* gaan over een vakje waarop al een andere student staat.
+Studenten kunnen niet buiten het veld bewegen, en kunnen nooit hetzelfde vakje bezetten. Ook bewegingen mogen *nooit* gaan over een vakje waarop al een andere student staat.
 
 Richtingen rechts, links, boven en onder gelden altijd van uit het grid-perspectief als eerder aangegeven: de kijkrichting van de student is *niet* van invloed tenzij expliciet vermeld. 'Naast'/'aangrenzend' betekent: in een aangrenzend vakje in dezelfde rij *of* kolom (dus niet diagonaal). Een 'rij' is een horizontale rij van 6 vakjes, een 'kolom' is een verticale rij van 4 vakjes.
 
