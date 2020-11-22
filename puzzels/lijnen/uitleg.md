@@ -15,7 +15,7 @@ Uit deze puzzel komt "tussen mondriaan en de vlinder"
 
 
 
-| letter | Station | Encoding | Opmerking  |
+| Letter | Station | Encoding | Opmerking  |
 |---|--------------------|-----|---|
 | t | Amsterdam Centraal | 1:4 |   |
 | u | Utrecht Centraal   | 2:1 |   |
@@ -38,7 +38,7 @@ Uit deze puzzel komt "tussen mondriaan en de vlinder"
 | e | Zwolle             | 19:6 |   |
 | v | Harlingen haven    | 20:13  | Heb de spatie meegeteld |
 | l | Vlissingen         | 21:2  |   |
-| i | Hillegon           | 22:2 |   |
+| i | Hillegom           | 22:2 |   |
 | n | Roermond           | 23:7 |   |
 | d | Eindhoven          | 24:4 |   |
 | e | Goes               | 25:3 |   |
