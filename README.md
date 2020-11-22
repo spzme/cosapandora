@@ -38,6 +38,10 @@
      * Blokje post-its
      * 4 stiften: rood, groen, blauw, zwart
 
+## Elementair
+ * Uitkomst: sherlock
+ * [Uitleg](puzzels/elementair/uitleg.md)
+
 ## Puzzeltracks
 ### Intro
  * Gelukkig hebben we de foto's nog

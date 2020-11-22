@@ -7,7 +7,9 @@ $solutions = array(
 	// Morse
 	'lsd picknick morgen' => 'Lekker gewerkt pikken. De volgende puzzel vind je TODO.',
 	// Twister
-	'dagobert duck' => 'Goed gedaan ook.'
+	'dagobert duck' => 'Goed gedaan ook.',
+	// Elementair
+	'sherlock' => 'Opgelost.'
 );
 
 $message = '';
