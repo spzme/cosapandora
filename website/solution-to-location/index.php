@@ -11,7 +11,9 @@ $solutions = array(
 	// Elementair
 	'sherlock' => 'Opgelost.',
 	// Vlaggen
-	'kerel trek buis' => 'Done.'
+	'kerel trek buis' => 'Done.',
+	// Lijnen
+	'tussen mondriaan en de vlinder' => 'Kijk tussen Mondriaan en de Vlinder'
 );
 
 $message = '';

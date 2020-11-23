@@ -46,6 +46,10 @@
  * Uitkomst: kerel trek buis
  * [Uitleg](puzzels/vlaggen/uitleg.md)
 
+## Lijnen
+ * Uitkomst: tussen mondriaan en de vlinder
+ * [Uitleg](puzzels/lijnen/uitleg.md)
+
 ## Puzzeltracks
 ### Intro
  * Gelukkig hebben we de foto's nog
