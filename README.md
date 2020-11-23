@@ -42,6 +42,10 @@
  * Uitkomst: sherlock
  * [Uitleg](puzzels/elementair/uitleg.md)
 
+## Padvinders en vlaggenzwaaiers
+ * Uitkomst: kerel trek buis
+ * [Uitleg](puzzels/vlaggen/uitleg.md)
+
 ## Puzzeltracks
 ### Intro
  * Gelukkig hebben we de foto's nog

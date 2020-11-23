@@ -9,7 +9,9 @@ $solutions = array(
 	// Twister
 	'dagobert duck' => 'Goed gedaan ook.',
 	// Elementair
-	'sherlock' => 'Opgelost.'
+	'sherlock' => 'Opgelost.',
+	// Vlaggen
+	'kerel trek buis' => 'Done.'
 );
 
 $message = '';
