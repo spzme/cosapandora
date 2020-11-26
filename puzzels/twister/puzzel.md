@@ -21,7 +21,7 @@ De 4 studenten die bij elkaar gekomen zijn:
 ## Instructies
 Elke student heeft een lijst van trigger-condities en bijbehorende instructies. Aan het begin van elke beurt geldt als het goed is *exact* één van de nog niet eerder uitgevoerde condities, en de student voert de bijbehorende instructies uit. Hierna zou een andere trigger-conditie moeten gelden, de bijbehorende instructies worden dan uitgevoerd. Dit gaat net zolang door tot de 'Propedeuse-uitreiking' begint, de instructies voor dit ritueel worden apart gegeven. De 'Propedeuse-uitreiking' begint zodra alle triggers één keer uitgevoerd zijn.
 
-Elke beurt eindigt bij 'Dixi'. Op dat moment wordt er gekeken welke conditie dan geldt, en worden de volgende instructies opgevogd. _Tijdens_ dat een beurt bezig is worden triggercondities niet gecontroleerd. Als een student zijn instructies heeft uitgevoerd, worden ze daarna nooit meer uitgevoerd, ook al is de conditie nog steeds waar of wordt die dat later.
+Elke beurt eindigt bij 'Dixi'. Op dat moment wordt er gekeken welke conditie dan geldt, en worden de volgende instructies opgevolgd. _Tijdens_ dat een beurt bezig is worden triggercondities niet gecontroleerd. Als een student zijn instructies heeft uitgevoerd, worden ze daarna nooit meer uitgevoerd, ook al is de conditie nog steeds waar of wordt die dat later.
 
 Studenten kunnen niet buiten het veld bewegen, en kunnen nooit hetzelfde vakje bezetten. Ook bewegingen mogen *nooit* gaan over een vakje waarop al een andere student staat.
 
@@ -31,7 +31,7 @@ Als de instructies spreken over 'grond' wordt daarmee bedoeld het vakje waar de 
 
 Voor sommige instructies zal een letter genoteerd moeten worden op de grond, gebruik hiervoor de post-it notes.
 
-Het collgejaar begint.
+Het collegejaar begint.
 
 ## Triggers
 ### Noviet
@@ -54,11 +54,11 @@ _Als er twee objecten op het speelveld liggen, ga hier dan precies tussenin staa
 
 > Er ligt iets eetbaars op het speelveld.
 
-_Dat lust jij wel! Tijdens deze beurt duw je iedereen die je in aangrenzende vakjes tegekomt één vakje van je af omdat je zo gulzig bent. Beweeg één vakje naar rechts, twee vakjes naar links en zoveel mogelijk vakjes naar boven. Teken een P op de grond als je een stift in een van je handen hebt. Gooi het object in je rechter hand één vakje naar rechts. Beweeg één vakje richting het dichtstbijzijnde eten dat op de grond ligt. Als je op een vakje met eten staat, en je een stift in je linkerhand hebt, teken daar dan een V op de grond. Als je op een vakje met eten staat, eet het dan op. Dixi._
+_Dat lust jij wel! Tijdens deze beurt duw je iedereen die je in aangrenzende vakjes tegenkomt één vakje van je af omdat je zo gulzig bent. Beweeg één vakje naar rechts, twee vakjes naar links en zoveel mogelijk vakjes naar boven. Teken een P op de grond als je een stift in een van je handen hebt. Gooi het object in je rechter hand één vakje naar rechts. Beweeg één vakje richting het dichtstbijzijnde eten dat op de grond ligt. Als je op een vakje met eten staat, en je een stift in je linkerhand hebt, teken daar dan een V op de grond. Als je op een vakje met eten staat, eet het dan op. Dixi._
 
 > In de vorige beurt is er een student in het vakje onder je komen te staan.
 
-_Je schrikt van de plotselinge verschijning van een student naast je. Je laat je object in je linkerhand vallen op de plek waar je staat, en rent zo ver mogeijk naar boven. Als je hier een andere student links van je staat, steel je het object in zijn rechterhand en houd je dat vast in je linkerhand. Vervolgens loop je twee stappen naar rechts, en zover mogelijk naar beneden. Als je een stift in je linkerhand hebt, teken er dan een G mee. Als je een stift in je rechterhand hebt, teken er dan een Y mee. Dixi._
+_Je schrikt van de plotselinge verschijning van een student naast je. Je laat je object in je linkerhand vallen op de plek waar je staat, en rent zo ver mogelijk naar boven. Als je hier een andere student links van je staat, steel je het object in zijn rechterhand en houd je dat vast in je linkerhand. Vervolgens loop je twee stappen naar rechts, en zover mogelijk naar beneden. Als je een stift in je linkerhand hebt, teken er dan een G mee. Als je een stift in je rechterhand hebt, teken er dan een Y mee. Dixi._
 
 ### Sjaars
 > In het vakje boven jou is een letter getekend.
@@ -69,7 +69,7 @@ _Er staan nog veel te weinig letters op het veld. Gooi het object in je rechterh
 
 _Als je naast een andere student staat, pak dan het object in zijn linkerhand en stop deze in jouw rechterhand. Loop zo ver mogelijk naar rechts. Loop zo ver mogelijk naar beneden. Als je naast een andere student staat, wissel dan het object in zijn linkerhand met het object in jouw rechterhand, en pak zijn object in jouw rechterhand. Als je een stift vast hebt, zet dan een T op de grond. Wissel het object in zijn rechterhand met het object in jouw rechterhand, pak zijn object in jouw linkerhand. Loop 1 vakje omhoog. Als je een stift vast hebt, teken dan een W op de grond. Dixi._
 
-> Het collgejaar begint.
+> Het collegejaar begint.
 
 _Tijd om de UT te verkennen. Beweeg zoveel mogelijk naar boven. Beweeg nu zoveel mogelijk naar rechts. Als je een stift in je linkerhand hebt, teken er dan een D mee op de grond. Als je een stift in je rechterhand hebt, gebruik deze dan om een A te tekenen. Beweeg nu zo ver mogelijk naar beneden, en vervolgens vier vakjes naar links. Als je een stift in je linkerhand hebt, teken een E op de grond. Als je een stift in je rechterhand hebt, teken er dan een C mee. Dixi._
 
@@ -87,7 +87,7 @@ _Je hebt het gevoel dat je langzaam ingesloten wordt. Beweeg naar boven, maar st
 _Je krijgt een beetje een droge keel van al dat puzzelen. Loop rechtstreeks naar het vakje met het drankje op de grond. Daar aangekomen zie je echter dat de student die aangrenzend aan dit vakje staat een veel lekkerder drankje heeft. Steel het uit zijn handen en trek een ad. Lukte dat binnen 7 seconden, zet dan een Q op de grond. Lukte dat niet, zet hier dan een X. Dixi._
 
 ## Propedeuse-uitreiking
-Alle studenten stoppen waar ze mee bezig zijn, en vormen gezamelijk het verloren codewoord. Geen letter in een vakje wordt geïnterpreteerd als spatie.
+Alle studenten stoppen waar ze mee bezig zijn, en vormen gezamenlijk het verloren codewoord. Geen letter in een vakje wordt geïnterpreteerd als spatie.
   1. De enige blauwe letter in de eerste kolom.
   2. De meest rechter letter in de rij waar twee studenten in staan.
   3. De rode letter in de kolom waar twee objecten in liggen.

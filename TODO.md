@@ -1,44 +1,44 @@
 # TODO
 
-## Woensdag
-### Voorbereiding
- * Ophanglocaties puzzels fotograferen
-
 ## Donderdag
 ### Puzzels
- * Tripjournaal afmaken
  * Puzzels controleren en fixen waar nodig
- * Puzzels herencoden waar nodig
- * Regels controleren en fixen waar nodig
- * Briefjes maken voor: eind puzzelreeks 1, eind puzzelreeks 2
+   * Tripjournaal
+   * Feutenfeest
 
 ### Voorbereiding
  * Samengevoegd bestand maken van te printen dingen
+   * Mist alleen nog tripjournaal
  * Oplossinggenerator invullen met oplossingen
- * Tijdschriften fixen voor blaaspijpen
+   * Mist alleen nog tripjournaal
 
-### Boodschappen
+## Vrijdag
+### Worden gehaald door commissie
  * 30 enveloppen
  * 15 plastic ophangzakken (voor van die mappen ofzo)
  * 2 blokjes post-it notes
  * 8 stiften: 2 rood, 2 groen, 2 blauw, 2 zwart
  * Rol ducttape
+ * Rol cadeaupapier
+
+### Boodschappen zelf te halen
  * 2 frikandelbroodjes
  * 2 bokkepootjes
  * 2 halve liters klok
  * 2 halve liters monster
  * 6 flessen ice
+
+### Heeft Stok nog staan
  * 2 dozen voor puzzelboxen op wc
 
-### Items doorgeven om te halen door commissie
- * 3 meter PVC
+### Heeft Gliph nog liggen
+ * Tijdschriften fixen voor blaaspijpen
 
-## Vrijdag
 ### Voorbereiding
  * Alles printen
  * Ophangmappen maken
  * Presentatie maken?
- * Doos voor op toiletten maken: ice, even verbinden, inpakken?
+ * Doos voor op toiletten maken: ice, even verbinden, inpakken
 
 ## Zaterdag
 ### Vlak voor het begint
