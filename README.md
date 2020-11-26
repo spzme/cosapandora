@@ -27,9 +27,9 @@ Beide teams: maak een appgroep en stop Ronnie en Stok daar ook in. Gebruik deze 
 ### Uitleg puzzels
 Uit elke puzzel komt een uitkomst in de vorm van Nederlandse tekst. Deze kan je invoeren op http://sanderbakkum.nl/cosapandora/, als de tekst herkend wordt als oplossing van een puzzel zul je hier te zien krijgen waar je daarna heen moet om de volgende puzzel op te halen.
 
-Puzzels hangen enigszins verborgen. Zoek dus even rond voordat je tot de conclusie komt dat de puzzel er niet hangt. Ze zijn te herkennen aan dat het dubbelgevouwen A4-tjes zijn.
+Puzzels hangen enigszins verborgen. Zoek dus even rond voordat je tot de conclusie komt dat de puzzel er niet hangt. Ze zijn te herkennen aan dat het enveloppen in doorzichtige mapjes zijn.
 
-Zorg ervoor dat je een telefoon mee hebt waarmee je foto's met flits kan nemen van de nieuwe puzzel (tip: ga met 2 personen, 1 persoon neemt foto, de andere licht bij).
+Zorg ervoor dat je een telefoon of zaklamp mee hebt om puzzels mee te zoeken als je op pad gaat.
 
 Het is belangrijk dat je alle informatie op een puzzel gebruikt, de titel van de puzzel kan dus ook heel belangrijk zijn om verder te komen!
 
@@ -38,16 +38,14 @@ Voor elke puzzel die je succesvol oplost krijg je 10 punten. Er zijn 2 puzzelree
 ### Uitleg kills
 Buiten kan je gekillt worden door het andere team. Elk team krijgt hiervoor 2 zwaarden en 2 blaaspijpen. Voor blaaspijpen moet je pijltjes vouwen van tijdschriften. Je mag zwaarden alleen afweren met andere zwaarden. Geraakt worden op je blaaspijp door een zwaard is bijvoorbeeld dus af.
 
-Je kan niet gekillt worden 10 meter rond het huis. Wees hier een beetje schappelijk in en ga niet teveel rond het huis campen. Op andere plekken campen mag wel. We hebben geen zin in discussies of iets nou 12 of 8 meter van het huis af is gebeurd.
+Je kan niet gekillt worden 10 meter rond het huis. Wees hier een beetje schappelijk in en ga niet teveel rond het huis campen. Op andere plekken campen mag wel. We hebben geen zin in discussies of iets nou 12 of 8 meter van het huis af is gebeurd. Je mag geen mensen killen vanuit een veilige zone.
 
 Als je gekillt bent mag je wel buiten blijven en puzzels ophalen, maar niet meer killen/gekillt worden, tot je thuis bent geweest. Als je dood bent ben je dood voor *deze keer* dat je buiten bent. Als je naar binnen en weer naar buiten gaat kan je dus weer killen en gekillt worden. Voor de duidelijkheid: als je gekillt wordt mag je dus nog wel doorgaan om een puzzel op te halen.
 
 Voor elke kill krijg je 8 punten. Als je iemand hebt gekillt, stuur dan even een appje in de appgroep.
 
 ### Uitleg gebied
-Het speelgebied is de westkant van de campus. Je hoeft dus niet voorbij de Cubicus/Spiegel te kijken voor puzzels. Buiten het speelgebied is geen killvrije zone.
-
-Voor sommige puzzels moet je windrichtingen weten. Windrichtingen zijn enigszins afgerond, dus als een lijn een beetje schuin maar duidelijk op naar een noorden loopt is dat gewoon noord.
+Het speelgebied is rond het woongebied van de Campus. Je hoeft dus niet voorbij de Cubicus/Spiegel te kijken voor puzzels. Buiten het speelgebied is geen killvrije zone.
 
 ### Uitleg gebruik huis
 Team 1 maakt gebruik van verdieping 1 en 2, team 2 maakt gebruik van verdieping 3 en 4. Vind een mooie kamer/combinatie van kamers om te gaan zitten puzzelen.
@@ -115,7 +113,7 @@ Het kan voordelig zijn om hints aan te vragen om eerder een tijdbonus te halen.
 
 ### Track 1
  * Elementair
- * Twister
+ * Feutenfeest
  * Het noorderlicht
 
 ### Track 2

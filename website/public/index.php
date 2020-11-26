@@ -1,7 +1,5 @@
 <?php
 $solutions = array(
-	// Oplossingen nog niet gebruikt: 1, 6, 8, 9
-
 	// Fotoboek
 	'wie dit leest trekt een ad' => 'Goed gedaan, ga naar de volgende locatie om de volgende puzzel op te halen: <tt>52.246482,6.8473261</tt>', // oplossing 13
 	// Even verbinden
@@ -16,8 +14,8 @@ $solutions = array(
 	'kerel trek buis' => '<tt>52.2447165,6.8460117</tt>', // oplossing 2
 	// Lijnen
 	'tussen mondriaan en de vlinder' => '<img src="img/11nbioiwa.jpeg">', // oplossing 11
-	// Tripverslag TODO
-	// oplossingen 3, 12
+	// Tripverslag
+	// oplossingen 1, 3, 6, 8, 9, 12
 );
 
 $message = '';
