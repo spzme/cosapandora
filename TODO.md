@@ -10,6 +10,7 @@
  * Puzzels controleren en fixen waar nodig
  * Puzzels herencoden waar nodig
  * Regels controleren en fixen waar nodig
+ * Briefjes maken voor: eind puzzelreeks 1, eind puzzelreeks 2
 
 ### Voorbereiding
  * Samengevoegd bestand maken van te printen dingen
