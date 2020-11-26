@@ -3,14 +3,10 @@
 ## Donderdag
 ### Puzzels
  * Puzzels controleren en fixen waar nodig
-   * Tripjournaal
    * Feutenfeest
 
 ### Voorbereiding
- * Samengevoegd bestand maken van te printen dingen
-   * Mist alleen nog tripjournaal
- * Oplossinggenerator invullen met oplossingen
-   * Mist alleen nog tripjournaal
+ * Oplossinggenerator uploaden
 
 ## Vrijdag
 ### Worden gehaald door commissie
