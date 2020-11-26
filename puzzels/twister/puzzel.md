@@ -96,7 +96,7 @@ Alle studenten stoppen waar ze mee bezig zijn, en vormen gezamelijk het verloren
   6. De letter in het vakje links van feut.
   7. De letter in het vakje van feut.
   8. De laatste letter in de rij waarin etenswaren liggen.
-  9. De letter in het vakje van de frikandel.
+  9. De letter in het vakje van het frikandelbroodje.
  10. De groene letter in de onderste rij.
  11. De groene letter in de vierde kolom.
  12. De groene letter in de tweede kolom.
