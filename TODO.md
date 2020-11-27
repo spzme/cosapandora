@@ -1,13 +1,5 @@
 # TODO
 
-## Donderdag
-### Puzzels
- * Puzzels controleren en fixen waar nodig
-   * Feutenfeest
-
-### Voorbereiding
- * Oplossinggenerator uploaden
-
 ## Vrijdag
 ### Worden gehaald door commissie
  * 30 enveloppen
