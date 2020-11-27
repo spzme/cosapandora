@@ -15,7 +15,7 @@ Het veld bestaat uit een grid van zes bij vier vakjes, als volgt genummerd:
 De 4 studenten die bij elkaar gekomen zijn:
  * Noviet: deze student heeft een 'frikandelbroodje' meegenomen in houdt deze in zijn linkerhand. Dat wordt lekker smullen. In zijn rechterhand houdt hij een rode stift. Hij begint op vakje 1.
  * Feut: deze student heeft altijd energie over. In zijn linkerhand houdt hij een blauwe stift vast, in zijn rechterhand een 'blik monster'. Hij begint op vakje 8.
- * Sjaars: deze student heeft teveel gezopen en is brak. Daar is mijn één remedie voor: doorpakken. In zijn linker is een 'halve liter klok' te vinden, in zijn andere hand een groene stift. Hij begint op vakje 17.
+ * Sjaars: deze student heeft teveel gezopen en is brak. Daar is maar één remedie voor: doorpakken. In zijn linker is een 'halve liter klok' te vinden, in zijn andere hand een groene stift. Hij begint op vakje 17.
  * Nullo: deze student houdt van vreten. Hij is dan ook een beetje aangekomen, al tijdens de introductie. In zijn rechterhand heeft hij een 'bokkepootje', in de linker een zwarte stift. Hij begint op vakje 24.
 
 ## Instructies
@@ -23,7 +23,7 @@ Elke student heeft een lijst van trigger-condities en bijbehorende instructies. 
 
 Elke beurt eindigt bij 'Dixi'. Op dat moment wordt er gekeken welke conditie dan geldt, en worden de volgende instructies opgevolgd. _Tijdens_ dat een beurt bezig is worden triggercondities niet gecontroleerd. Als een student zijn instructies heeft uitgevoerd, worden ze daarna nooit meer uitgevoerd, ook al is de conditie nog steeds waar of wordt die dat later.
 
-Studenten kunnen niet buiten het veld bewegen, en kunnen nooit hetzelfde vakje bezetten. Ook bewegingen mogen *nooit* gaan over een vakje waarop al een andere student staat.
+Studenten kunnen niet buiten het veld bewegen, en kunnen nooit hetzelfde vakje bezetten. Ook mogen bewegingen nooit gaan *over* een vakje waarop al een andere student staat. Zoveel mogelijk een richting op bewegen stopt dus in het vakje voor je een andere student tegenkomt.
 
 Richtingen rechts, links, boven en onder gelden altijd van uit het grid-perspectief als eerder aangegeven: de kijkrichting van de student is *niet* van invloed tenzij expliciet vermeld. 'Naast'/'aangrenzend' betekent: in een aangrenzend vakje in dezelfde rij *of* kolom (dus niet diagonaal). Een 'rij' is een horizontale rij van 6 vakjes, een 'kolom' is een verticale rij van 4 vakjes.
 
@@ -80,7 +80,7 @@ _Tijdens deze beurt teken je op elk vakje zonder letter dat je tegenkomt een let
 
 > In een vakje direct diagonaal van je is een blauwe letter getekend.
 
-_Je hebt het gevoel dat je langzaam ingesloten wordt. Beweeg naar boven, maar stop in het vakje voor de eerste letter die je tegenkomt. Gooi het object in je rechterhand 3 vakjes naar rechts. Beweeg 1 stap diagonaal naar linksboven. Als je een stift in je linkerhand hebt, teken er dan een B mee. Beweeg zoveel mogelijk naar links. Als je een stift in een van beide handen hebt, teken er dan een E mee. Dixi._
+_Je hebt het gevoel dat je langzaam ingesloten wordt. Beweeg naar boven, maar stop in het vakje voor de eerste letter die je tegenkomt. Gooi het object in je rechterhand 3 vakjes naar links. Beweeg 1 stap diagonaal naar linksboven. Als je een stift in je linkerhand hebt, teken er dan een B mee. Beweeg zoveel mogelijk naar links. Als je een stift in een van beide handen hebt, teken er dan een E mee. Dixi._
 
 > Er liggen exact twee objecten op het veld.
 
