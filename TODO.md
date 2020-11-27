@@ -1,9 +1,6 @@
 # TODO
 
 ## Vrijdag
-### Heeft Gliph nog liggen
- * Tijdschriften fixen voor blaaspijpen
-
 ### Voorbereiding
  * Presentatie maken
 
